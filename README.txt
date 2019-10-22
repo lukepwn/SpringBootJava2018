@@ -1,0 +1,2 @@
+- back-end app
+- uses apache tomcat, spring boot, hibernate
